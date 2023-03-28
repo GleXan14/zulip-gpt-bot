@@ -28,7 +28,7 @@ def handle_message(msg):
             model="gpt-3.5-turbo",
             messages=messages,
             max_tokens=1000,
-            temperature=0.9
+            temperature=0.7
         )
 
         # Send the response back to the user
