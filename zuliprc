@@ -1,0 +1,8 @@
+[api]
+email=BOT_EMAIL
+key=BOT_API_KEY
+site=https://chat.tsi.com.do
+
+[bot]
+name=BOT_NAME
+avatar=BOT_AVATAR_URL
